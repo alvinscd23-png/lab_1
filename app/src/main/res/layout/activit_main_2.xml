@@ -39,24 +39,28 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="+"
+            android:id="@+id/btnAdd"
             android:backgroundTint="#D30C0C" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="-"
+            android:id="@+id/btnSub"
             android:backgroundTint="#D30C0C" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="/"
+            android:id="@+id/btnMul"
             android:backgroundTint="#D30C0C" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="*"
+            android:id="@+id/btnDiv"
             android:backgroundTint="#D30C0C" />
     </LinearLayout>
 
