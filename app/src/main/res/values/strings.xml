@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">proj1</string>
+    <string name="textview">TextView</string>
+    <string name="enter_the_value_of_a">Enter the value of a</string>
+    <string name="Enter_the_value_of_b">Enter the value of b</string>
+    <string name="test">Simple Calculator</string>
+    <string name="Result">Result</string>
+</resources>
